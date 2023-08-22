@@ -5,15 +5,17 @@
 #include <string>
 using namespace std;
 
-
+//En esta parte revisamos si el caracter es una letra
 bool esLetra(char c) {
     return isalpha(c);
 }
 
+//En esta parte revisamos si el caracter es un numero
 bool esDigito(char c) {
     return isdigit(c);
 }
 
+//Aqui se imprimen los identificadores y los reales
 void imprimirToken(string token,bool real){
     string tokenActual=token;
     bool esReal=real;
