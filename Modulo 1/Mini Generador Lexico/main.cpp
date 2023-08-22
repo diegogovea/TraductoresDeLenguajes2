@@ -11,7 +11,7 @@ bool esLetra(char c) {
 }
 
 //En esta parte revisamos si el caracter es un numero
-bool esDigito(char c) {
+bool esDigito(char c) { 
     return isdigit(c);
 }
 
