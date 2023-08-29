@@ -1,2 +1,3 @@
 # Mini analizador sintáctico
+.
 
