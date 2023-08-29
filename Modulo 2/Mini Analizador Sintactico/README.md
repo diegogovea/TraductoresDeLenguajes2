@@ -1,2 +1,2 @@
-# AP
+# Mini analizador sintáctico
 
