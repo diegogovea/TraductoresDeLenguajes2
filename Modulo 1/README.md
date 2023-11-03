@@ -6,4 +6,7 @@ Un analizador léxico o analizador lexicográfico es la primera fase de un compi
 
 En este primer módulo del proyecto, así como en este primer apartado del proyecto nos vamos a encontrar con dos carpetas contenedoras.
 
-* 
+
+
+> [!NOTE]
+> Highlights information that users should take into account, even when skimming.
