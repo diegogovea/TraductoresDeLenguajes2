@@ -8,5 +8,5 @@ Un analizador léxico o analizador lexicográfico es la primera fase de un compi
 * Mini Generador Léxico
 * Modulo 1 - Simbolos Léxicos
   
-> [!NOTA]
+> [!NOTE]
 > El proyecto se encuentra en constante actualización
