@@ -4,9 +4,9 @@ Un analizador léxico o analizador lexicográfico es la primera fase de un compi
 
 ## Contenido en el repositorio
 
-En este primer módulo del proyecto, así como en este primer apartado del proyecto nos vamos a encontrar con dos carpetas contenedoras.
-
-
-
-> [!NOTE]
-> Highlights information that users should take into account, even when skimming.
+* Generador Léxico (Proyecto - 1)
+* Mini Generador Léxico
+* Modulo 1 - Simbolos Léxicos
+  
+> [!NOTA]
+> El proyecto se encuentra en constante actualización
