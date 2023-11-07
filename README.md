@@ -5,10 +5,18 @@
 
 ## Comenzando 🚀
 
-_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
+El proyecto consiste en ir armando un compilador parte por parte con el fin de entender como es que este funciona desde el interior.
 
-Mira **Deployment** para conocer como desplegar el proyecto.
+## Partes Principales
 
+- Analizador Lèxico
+- Analizador Sintàctico
+- Analizador Semàntico
+
+## Lenguajes Utilizados 
+
+- C++
+- PYTHON
 
 ### Pre-requisitos 📋
 
