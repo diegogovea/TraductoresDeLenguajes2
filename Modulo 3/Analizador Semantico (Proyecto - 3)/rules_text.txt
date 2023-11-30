@@ -1,0 +1,19 @@
+Programa -> AsignacionExpresion
+AsignacionExpresion -> id = Expresion ;
+Expresion -> Termino ExpresionResto
+ExpresionResto -> opSuma Termino ExpresionResto
+ExpresionResto -> opResta Termino ExpresionResto
+ExpresionResto -> ε 
+Termino -> Factor TerminoResto
+TerminoResto -> opMul Factor TerminoResto
+TerminoResto -> opDiv Factor TerminoResto
+TerminoResto -> ε 
+Factor -> ( Expresion )
+Factor -> - Factor
+Factor -> constante
+Factor -> id
+opSuma -> +
+opResta -> -
+opMul -> *
+opDiv -> /
+constante -> número
