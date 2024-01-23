@@ -1,6 +1,6 @@
 # SEMINARIO DE TRADUCTORES DE LENGUAJES 2 - PROYECTO COMPILADOR
 
-<p>Govea Ortiz Diego Leon</p>
+<p>Govea Ortiz Diego León</p>
 <p>Seminario de Solución de Problemas de Traductores de Lenguajes II - Sección D02</p>
 
 ## Comenzando 🚀
