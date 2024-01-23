@@ -10,7 +10,7 @@ El proyecto consiste en ir armando un compilador parte por parte con el fin de e
 ## Partes Principales
 
 - Analizador Lèxico
-- Analizador Sintàctico
+- Analizador Sintáctico
 - Analizador Semàntico
 
 ## Lenguajes Utilizados 
